@@ -1,0 +1,138 @@
+{
+  "mod": "tfc",
+  "tree_scanners": [
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/acacia",
+      "leaf": "tfc:wood/leaves/acacia",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/ash",
+      "leaf": "tfc:wood/leaves/ash",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/aspen",
+      "leaf": "tfc:wood/leaves/aspen",
+      "max_leaf_distance": 1,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/birch",
+      "leaf": "tfc:wood/leaves/birch",
+      "max_leaf_distance": 1,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/blackwood",
+      "leaf": "tfc:wood/leaves/blackwood",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/chestnut",
+      "leaf": "tfc:wood/leaves/chestnut",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/douglas_fir",
+      "leaf": "tfc:wood/leaves/douglas_fir",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/hickory",
+      "leaf": "tfc:wood/leaves/hickory",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/kapok",
+      "leaf": "tfc:wood/leaves/kapok",
+      "max_leaf_distance": 3,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/maple",
+      "leaf": "tfc:wood/leaves/maple",
+      "max_leaf_distance": 1,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/oak",
+      "leaf": "tfc:wood/leaves/oak",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/palm",
+      "leaf": "tfc:wood/leaves/palm",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/pine",
+      "leaf": "tfc:wood/leaves/pine",
+      "max_leaf_distance": 1,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/rosewood",
+      "leaf": "tfc:wood/leaves/rosewood",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/sequoia",
+      "leaf": "tfc:wood/leaves/sequoia",
+      "max_leaf_distance": 3,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/spruce",
+      "leaf": "tfc:wood/leaves/spruce",
+      "max_leaf_distance": 1,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/sycamore",
+      "leaf": "tfc:wood/leaves/sycamore",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/white_cedar",
+      "leaf": "tfc:wood/leaves/white_cedar",
+      "max_leaf_distance": 2,
+      "next_block_search": "connected_up_or_level"
+    },
+    {
+      "type": "default",
+      "trunk": "tfc:wood/log/willow",
+      "leaf": "tfc:wood/leaves/willow",
+      "max_leaf_distance": 1,
+      "next_block_search": "connected_up_or_level"
+    }
+  ]
+}

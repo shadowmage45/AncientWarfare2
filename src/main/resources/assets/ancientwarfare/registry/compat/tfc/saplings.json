@@ -1,0 +1,100 @@
+{
+  "mod": "tfc",
+  "saplings": [
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/acacia"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/ash"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/aspen"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/birch"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/blackwood"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/chestnut"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/douglas_fir"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/hickory"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/kapok"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/maple"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/oak"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/palm"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/pine"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/rosewood"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/sequoia"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/spruce"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/sycamore"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/white_cedar"
+      }
+    },
+    {
+      "sapling": {
+        "name": "tfc:wood/sapling/willow"
+      }
+    }
+  ]
+}

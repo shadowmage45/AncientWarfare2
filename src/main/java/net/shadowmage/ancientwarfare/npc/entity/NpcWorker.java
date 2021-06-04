@@ -148,19 +148,17 @@ public class NpcWorker extends NpcPlayerOwned implements IWorker {
 	protected WorkType getWorkTypeFromEquipment() {
 		ItemStack stack = getHeldItemMainhand();
 		if (!stack.isEmpty()) {
-			if (stack.getItem() instanceof ItemHoe) {
+			Collection<String> tools = stack.getItem().getToolClasses(stack);
+			if (stack.getItem() instanceof ItemHoe || tools.contains("hoe")) {  // Covers Minecraft and modded cases that use a Hoe ToolClass
 				return WorkType.FARMING;
-			} else {
-				Collection<String> tools = stack.getItem().getToolClasses(stack);
-				if (tools.contains("axe")) {
-					return WorkType.FORESTRY;
-				} else if (tools.contains("pickaxe")) {
-					return WorkType.MINING;
-				} else if (tools.contains("hammer")) {
-					return WorkType.CRAFTING;
-				} else if (tools.contains("quill")) {
-					return WorkType.RESEARCH;
-				}
+			} else if (tools.contains("axe")) {
+				return WorkType.FORESTRY;
+			} else if (tools.contains("pickaxe")) {
+				return WorkType.MINING;
+			} else if (tools.contains("hammer")) {
+				return WorkType.CRAFTING;
+			} else if (tools.contains("quill")) {
+				return WorkType.RESEARCH;
 			}
 		}
 		return WorkType.NONE;

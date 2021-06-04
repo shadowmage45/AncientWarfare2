@@ -1,0 +1,265 @@
+{
+  "mod": "tfc",
+  "fruits": [
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/blackberry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/blackberry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/blueberry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/blueberry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/bunch_berry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/bunch_berry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/cloud_berry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/cloud_berry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/cranberry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/cranberry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/elderberry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/elderberry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/gooseberry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/gooseberry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/raspberry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/raspberry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/snow_berry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/snow_berry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/strawberry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/strawberry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:berry_bush/wintergreen_berry",
+      "ripe": {
+        "fruiting": "true"
+      },
+      "new": {
+        "fruiting": "false"
+      },
+      "drop": {
+        "name": "tfc:food/wintergreen_berry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:fruit_trees/leaves/banana",
+      "ripe": {
+        "state": "fruit"
+      },
+      "new": {
+        "state": "normal"
+      },
+      "drop": {
+        "name": "tfc:food/banana"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:fruit_trees/leaves/cherry",
+      "ripe": {
+        "state": "fruit"
+      },
+      "new": {
+        "state": "normal"
+      },
+      "drop": {
+        "name": "tfc:food/cherry"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:fruit_trees/leaves/green_apple",
+      "ripe": {
+        "state": "fruit"
+      },
+      "new": {
+        "state": "normal"
+      },
+      "drop": {
+        "name": "tfc:food/green_apple"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:fruit_trees/leaves/lemon",
+      "ripe": {
+        "state": "fruit"
+      },
+      "new": {
+        "state": "normal"
+      },
+      "drop": {
+        "name": "tfc:food/lemon"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:fruit_trees/leaves/olive",
+      "ripe": {
+        "state": "fruit"
+      },
+      "new": {
+        "state": "normal"
+      },
+      "drop": {
+        "name": "tfc:food/olive"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:fruit_trees/leaves/orange",
+      "ripe": {
+        "state": "fruit"
+      },
+      "new": {
+        "state": "normal"
+      },
+      "drop": {
+        "name": "tfc:food/orange"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:fruit_trees/leaves/peach",
+      "ripe": {
+        "state": "fruit"
+      },
+      "new": {
+        "state": "normal"
+      },
+      "drop": {
+        "name": "tfc:food/peach"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:fruit_trees/leaves/plum",
+      "ripe": {
+        "state": "fruit"
+      },
+      "new": {
+        "state": "normal"
+      },
+      "drop": {
+        "name": "tfc:food/plum"
+      }
+    },
+    {
+      "type": "picked_drop",
+      "fruit": "tfc:fruit_trees/leaves/red_apple",
+      "ripe": {
+        "state": "fruit"
+      },
+      "new": {
+        "state": "normal"
+      },
+      "drop": {
+        "name": "tfc:food/red_apple"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "mod": "tfc",
+  "soils": [
+    {
+      "name": "tfc:dirt/granite"
+    },
+    {
+      "name": "tfc:dirt/diorite"
+    },
+    {
+      "name": "tfc:dirt/gabbro"
+    },
+    {
+      "name": "tfc:dirt/shale"
+    },
+    {
+      "name": "tfc:dirt/claystone"
+    },
+    {
+      "name": "tfc:dirt/rocksalt"
+    },
+    {
+      "name": "tfc:dirt/limestone"
+    },
+    {
+      "name": "tfc:dirt/conglomerate"
+    },
+    {
+      "name": "tfc:dirt/dolomite"
+    },
+    {
+      "name": "tfc:dirt/chalk"
+    },
+    {
+      "name": "tfc:dirt/rhyolite"
+    },
+    {
+      "name": "tfc:dirt/basalt"
+    },
+    {
+      "name": "tfc:dirt/andesite"
+    },
+    {
+      "name": "tfc:dirt/dacite"
+    },
+    {
+      "name": "tfc:dirt/quartzite"
+    },
+    {
+      "name": "tfc:dirt/slate"
+    },
+    {
+      "name": "tfc:dirt/phyllite"
+    },
+    {
+      "name": "tfc:dirt/schist"
+    },
+    {
+      "name": "tfc:dirt/gneiss"
+    },
+    {
+      "name": "tfc:dirt/marble"
+    },
+    {
+      "name": "tfc:grass/granite"
+    },
+    {
+      "name": "tfc:grass/diorite"
+    },
+    {
+      "name": "tfc:grass/gabbro"
+    },
+    {
+      "name": "tfc:grass/shale"
+    },
+    {
+      "name": "tfc:grass/claystone"
+    },
+    {
+      "name": "tfc:grass/rocksalt"
+    },
+    {
+      "name": "tfc:grass/limestone"
+    },
+    {
+      "name": "tfc:grass/conglomerate"
+    },
+    {
+      "name": "tfc:grass/dolomite"
+    },
+    {
+      "name": "tfc:grass/chalk"
+    },
+    {
+      "name": "tfc:grass/rhyolite"
+    },
+    {
+      "name": "tfc:grass/basalt"
+    },
+    {
+      "name": "tfc:grass/andesite"
+    },
+    {
+      "name": "tfc:grass/dacite"
+    },
+    {
+      "name": "tfc:grass/quartzite"
+    },
+    {
+      "name": "tfc:grass/slate"
+    },
+    {
+      "name": "tfc:grass/phyllite"
+    },
+    {
+      "name": "tfc:grass/schist"
+    },
+    {
+      "name": "tfc:grass/gneiss"
+    },
+    {
+      "name": "tfc:grass/marble"
+    }
+  ]
+}
